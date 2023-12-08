@@ -1,0 +1,28 @@
+main{
+    background-color:firebrick ;
+    padding: 0.5rex;
+    width:  70%;
+}
+aside{
+    background-color: aliceblue;
+    padding: 0.5rem;
+    width: 30%;
+}
+.breadcrumbs li a:link{
+    color: aliceblue;
+}
+.breadcrumbs li a:visited{
+    color: firebrick;
+}
+main article{
+    background-color: black;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+main section{
+    padding: 0.5rem;
+}
+main article th{
+    padding: 0.5rem;
+    list-style: nome;
+}

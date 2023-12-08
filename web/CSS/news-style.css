@@ -1,0 +1,13 @@
+.frame{
+    margin-bottom: 2rem;
+    display: flow-root;
+}
+.float-left{
+    width: 50%;
+    margin: 0 1rem;
+    float: left;
+}
+.frame p{
+    line-height: 1.6;
+    letter-spacing: 0.05em;
+}

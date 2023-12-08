@@ -1,0 +1,19 @@
+.frame{
+    margin-bottom: 2rem;
+    display: flow-root;
+}
+.float-left{
+    width: 40%;
+    margin: 0 1rem;
+    float: left;
+}
+.frame p{
+    line-height: 1.6;
+    letter-spacing: 0.05em;
+}
+main a{
+    color: black;
+}
+main li{
+    list-style: "▲";
+}
