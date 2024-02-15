@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+html{
+    font-size: 100%;
+}
+body{
+    font-family: "游明朝体," "Yu Mincho" , YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
+   background-color: blanchedalmond;
+}
+
+
+    /* display: flex; */
+
+
+
+.topic-item img{
+    height: 200px;
+    margin: 50px 120px 20px 120px;
+    
+}
+.about-links{
+    margin-bottom: 50%;
+    font-size: small;
+    text-align: center;
+    font-weight: 10;
+    font-size: 2rem;
+    padding: 4%;
+    color: black;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.about{
+    width: 30%;
+}
+*{box-sizing: border-box;}
+
+ul.gnav-navi-1{
+background: #bbb;
+padding: 0;
+text-align: center;
+}
+ul.gnav-navi-1 li{
+display: inline-block;
+}
+
+
+ul.gnav-navi-1 li a{
+display: block;
+padding: 1em;
+color: #fff;
+text-decoration: none;
+}
+ul.gnav-navi-1 a::first-line{
+font-size: 16px;
+font-weight: bold;
+}
+
